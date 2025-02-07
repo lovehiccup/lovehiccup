@@ -1,4 +1,4 @@
-# I'm LoveHiccup!  
+# Hi, I'm LoveHiccup!  
 [![GitHub followers](https://img.shields.io/github/followers/lovehiccup?style=social)](https://github.com/lovehiccup)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/lovehiccup)
 

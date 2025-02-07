@@ -4,8 +4,11 @@
 
 Since 2016, I have been building my career as a Frontend Developer, crafting intuitive and dynamic user experiences.
 In 2019, I broadened my expertise by diving into Full-Stack Development, strengthening my ability to create seamless end-to-end solutions.
+
 With over 8 years of experience as a web developer, I remain passionate about continuous learning and embracing emerging technologies to deliver innovative, user-friendly solutions.
+
 Lately, I’ve developed a deep interest in AI/ML and am actively exploring its vast potential.
+
 
 #### **Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)

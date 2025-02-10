@@ -32,10 +32,12 @@ Lately, I’ve developed a deep interest in AI/ML and am actively exploring its 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 
 #### **DevOps & Cloud:** 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-web-services&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-web-services&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=fff), 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -45,3 +47,14 @@ Lately, I’ve developed a deep interest in AI/ML and am actively exploring its 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+#### Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
+
+#### Other
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff)
+![WebSockets](https://img.shields.io/badge/WebSockets-C93CD7?logo=socket&logoColor=fff)
+![Rest APIs](https://img.shields.io/badge/Rest%20APIs-13B4FF?logo=lintcode&logoColor=fff)
+![Agile/Scrum](https://img.shields.io/badge/Agile/Scrum-29BEB0?logo=task&logoColor=fff)

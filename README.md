@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/stefan1014)
 
 Since 2014, I have been building my career as a Frontend Developer, crafting intuitive and dynamic user experiences.
-In 2017, I broadened my expertise by diving into Full-Stack Development, strengthening my ability to create seamless end-to-end solutions.
+In 2019, I broadened my expertise by diving into Full-Stack Development, strengthening my ability to create seamless end-to-end solutions.
 
 With over 10 years of experience as a Senior Full Stack Engineer, I remain passionate about continuous learning and embracing emerging technologies to deliver innovative, user-friendly solutions.
 

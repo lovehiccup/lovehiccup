@@ -88,8 +88,10 @@ Lately, I’ve developed a deep interest in AI/ML and am actively exploring its 
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=fff)  
+![phpunit](https://img.shields.io/badge/phpunit-6E9CBB?logo=php&logoColor=fff)
 
-#### Other
+#### Others
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff)

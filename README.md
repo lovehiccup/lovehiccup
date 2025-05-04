@@ -12,18 +12,12 @@ Lately, I’ve developed a deep interest in AI/ML and am actively exploring its 
 
 #### **Languages**
 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
 
@@ -54,9 +48,7 @@ Lately, I’ve developed a deep interest in AI/ML and am actively exploring its 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)
 ![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
 
 #### **Database**
 
@@ -80,7 +72,6 @@ Lately, I’ve developed a deep interest in AI/ML and am actively exploring its 
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -100,8 +91,10 @@ Lately, I’ve developed a deep interest in AI/ML and am actively exploring its 
 
 #### Other
 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff)
 ![WebSockets](https://img.shields.io/badge/WebSockets-C93CD7?logo=socket&logoColor=fff)
 ![Rest APIs](https://img.shields.io/badge/Rest%20APIs-13B4FF?logo=lintcode&logoColor=fff)
 ![Agile/Scrum](https://img.shields.io/badge/Agile/Scrum-29BEB0?logo=task&logoColor=fff)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)

@@ -2,10 +2,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/lovehiccup?style=social)](https://github.com/lovehiccup)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/stefan1014)
 
-Since 2016, I have been building my career as a Frontend Developer, crafting intuitive and dynamic user experiences.
-In 2019, I broadened my expertise by diving into Full-Stack Development, strengthening my ability to create seamless end-to-end solutions.
+Since 2014, I have been building my career as a Frontend Developer, crafting intuitive and dynamic user experiences.
+In 2017, I broadened my expertise by diving into Full-Stack Development, strengthening my ability to create seamless end-to-end solutions.
 
-With over 8 years of experience as a Senior Full Stack Engineer, I remain passionate about continuous learning and embracing emerging technologies to deliver innovative, user-friendly solutions.
+With over 10 years of experience as a Senior Full Stack Engineer, I remain passionate about continuous learning and embracing emerging technologies to deliver innovative, user-friendly solutions.
 
 Lately, I’ve developed a deep interest in AI/ML and am actively exploring its vast potential.
 
@@ -14,7 +14,7 @@ Lately, I’ve developed a deep interest in AI/ML and am actively exploring its 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 
 #### **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
